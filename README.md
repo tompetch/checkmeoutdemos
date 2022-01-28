@@ -72,6 +72,10 @@ There will be a requirement to modify the site so a simple cms system along with
 
 Aside from the usual networking related health checks available, we would like to visualise the CloudFront access logs.
 
+* Security
+
+Adding a waf to the CloudFront front end will enhance the security position.
+
 
 
 
