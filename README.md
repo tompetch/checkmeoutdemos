@@ -1,7 +1,6 @@
 # checkmeoutdemo
 
 https://checkmeout-demo.com/
-https://d2hpoykar2zmx4.cloudfront.net/
 
 **Background:**
 
